@@ -1,0 +1,12 @@
+.env
+
+# Python 的虚拟环境目录
+venv/
+ENV/
+
+# 临时文件
+*.pyc
+__pycache__/
+
+# 数据库文件
+*.db
